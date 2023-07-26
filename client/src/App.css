@@ -1,0 +1,7 @@
+ input, select {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  align-items : left;  
+  box-sizing: border-box;
+}
